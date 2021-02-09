@@ -5,3 +5,5 @@ export GENERATE_SOURCEMAP=false
 
 yarn build
 mv build/index.html build/popup.html
+
+cp -r build release
