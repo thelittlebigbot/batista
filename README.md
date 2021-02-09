@@ -1,10 +1,6 @@
-<div style="text-align: center; margin-bottom: 1rem;">
-
 # Batista
 
 ![Logo](src/logo.png)
-
-</div>
 
 Shows the current price of the Basic Attention Token (BAT) in a Chrome Extension
 
