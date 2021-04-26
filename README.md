@@ -48,7 +48,7 @@ If you only want to use this extension without modifying it, don't do these step
 
 ## Authors
 
-**Alexandre Figueiredo** - _Initial work_ - [thelittlebigbot](https://github.com/thelittlebigbot)
+**Alexandre Figueiredo** - _Initial work_ - [lxndrfgrd](https://github.com/lxndrfgrd)
 
 ## License
 
