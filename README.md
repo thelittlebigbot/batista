@@ -25,7 +25,7 @@ If you only want to use this extension without modifying it, don't do these step
 
 ### Downloading
 
-`git clone https://github.com/thelittlebigbot/batista`
+`git clone https://github.com/lxndrfgrd/batista`
 
 ### Installing
 
