@@ -2,7 +2,7 @@
 
 ![Logo](src/logo.png)
 
-Shows the current price of the Basic Attention Token (BAT) in a Chrome Extension
+Shows the current price of the Basic Attention Token (BAT) in a Chrome Extension.
 
 - [Batista](#batista)
   - [Getting Started](#getting-started)
@@ -25,7 +25,7 @@ If you only want to use this extension without modifying it, don't do these step
 
 ### Downloading
 
-`git clone https://github.com/lxndrfgrd/batista`
+`git clone https://github.com/afigueir/batista`
 
 ### Installing
 
@@ -48,7 +48,7 @@ If you only want to use this extension without modifying it, don't do these step
 
 ## Authors
 
-**Alexandre Figueiredo** - _Initial work_ - [lxndrfgrd](https://github.com/lxndrfgrd)
+**Alexandre Figueiredo** - _Initial work_ - [afigueir](https://github.com/afigueir)
 
 ## License
 
